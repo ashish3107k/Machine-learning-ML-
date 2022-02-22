@@ -1,6 +1,9 @@
 # Machine Learning 
 
-Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. ML is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect.
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
+
+The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
+
 
 ## Machine Learning Algorithms
 There are three types of machine learning algorithms
@@ -15,6 +18,7 @@ There are three types of machine learning algorithms
 3. Reinforcement Learning
 
 ### Supervised Learning
+
 Supervised learning is the types of machine learning in which machines are trained using well "labelled" training data, and on basis of that data, machines predict the output. The labelled data means some input data is already tagged with the correct output.
 
 In supervised learning, the training data provided to the machines work as the supervisor that teaches the machines to predict the output correctly. It applies the same concept as a student learns in the supervision of the teacher.
@@ -30,7 +34,9 @@ In the real-world, supervised learning can be used for Risk Assessment, Image cl
 
 ### 1. Regression
 
-Regression algorithms are used if there is a relationship between the input variable and the output variable. It is used for the prediction of continuous variables, such as Weather forecasting, Market Trends, etc. Below are some popular Regression algorithms which come under supervised learning:
+Regression algorithms are used if there is a relationship between the input variable and the output variable. It is used for the prediction of continuous variables, such as Weather forecasting, Market Trends, etc. Below are 
+
+<b>Some Regression algorithms which come under supervised learning:</b>
 
 . Linear Regression
 
@@ -40,13 +46,15 @@ Regression algorithms are used if there is a relationship between the input vari
 
 . Polynomial Regression
 
-![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/Regression.jpg)
+![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/nr1.png)
 
 ### 2. Classification
 
 Classification algorithms are used when the output variable is categorical, which means there are two classes such as Yes-No, Male-Female, True-false, etc.
 
 Spam Filtering,
+
+<b>Some Classification algorithms which come under supervised learning:</b>
 
 . k -nearest neighbors (k-NN)
 
@@ -60,7 +68,7 @@ Spam Filtering,
 
 . Support vector Machines
 
-![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/classification.jpg)
+![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/nc1.png)
 
 ## Unsupervised Learning
 
@@ -68,7 +76,7 @@ In supervised machine learning in which models are trained using labeled data un
 
 . Clustering: Clustering is a method of grouping the objects into clusters such that objects with most similarities remains into a group and has less or no similarities with the objects of another group. Cluster analysis finds the commonalities between the data objects and categorizes them as per the presence and absence of those commonalities.
 
-### Some Unsupervised Learning Algorithms
+<b>Some Unsupervised Learning Algorithms:</b>
 
 . K-means clustering
 
@@ -80,7 +88,7 @@ In supervised machine learning in which models are trained using labeled data un
 
 ![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/clu%20ex%201.png)
 
-### Reinforcement Learning
+## Reinforcement Learning
 
  Reinforcement learning algorithms receive a set of instructions and guidelines and then make their own decisions about how to handle a task through a process of trial and error. Decisions are either rewarded or punished as a means of guiding the AI to the optimal solution to the problem.
 
