@@ -25,7 +25,8 @@ In the real-world, supervised learning can be used for Risk Assessment, Image cl
 
 
 ### Types of supervised learning Algorithms
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/slt.png)
 
 1. Regression
 
