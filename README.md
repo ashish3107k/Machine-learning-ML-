@@ -28,7 +28,7 @@ In the real-world, supervised learning can be used for Risk Assessment, Image cl
 
 ![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/slt.png)
 
-1. Regression
+### 1. Regression
 
 Regression algorithms are used if there is a relationship between the input variable and the output variable. It is used for the prediction of continuous variables, such as Weather forecasting, Market Trends, etc. Below are some popular Regression algorithms which come under supervised learning:
 
@@ -40,7 +40,9 @@ Regression algorithms are used if there is a relationship between the input vari
 
 . Polynomial Regression
 
-2. Classification
+![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/Regression.jpg)
+
+### 2. Classification
 
 Classification algorithms are used when the output variable is categorical, which means there are two classes such as Yes-No, Male-Female, True-false, etc.
 
@@ -58,7 +60,9 @@ Spam Filtering,
 
 . Support vector Machines
 
-### Unsupervised Learning
+![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/classification.jpg)
+
+## Unsupervised Learning
 
 In supervised machine learning in which models are trained using labeled data under the supervision of training data. But there may be many cases in which we do not have labeled data and need to find the hidden patterns from the given dataset. So, to solve such types of cases in machine learning, we need unsupervised learning techniques.
 
@@ -73,6 +77,8 @@ In supervised machine learning in which models are trained using labeled data un
 . Neural Networks
 
 . Principle Component Analysis 
+
+![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/clu%20ex%201.png)
 
 ### Reinforcement Learning
 
