@@ -6,6 +6,7 @@ The process of learning begins with observations or data, such as examples, dire
 
 
 ## Machine Learning Algorithms
+
 There are three types of machine learning algorithms
 
 
@@ -38,11 +39,17 @@ Regression algorithms are used if there is a relationship between the input vari
 
 <b>Some Regression algorithms which come under supervised learning:</b>
 
+. Simple Linear Regression
+
+. Multiple Linear Regression
+
 . Linear Regression
 
-. Support Vector Regression (SVR)
+. Decision Tree Regression
 
-. Decision Trees
+. Random Forest Regression
+
+. Support Vector Regression (SVR)
 
 . Polynomial Regression
 
@@ -56,17 +63,17 @@ Spam Filtering,
 
 <b>Some Classification algorithms which come under supervised learning:</b>
 
-. k -nearest neighbors (k-NN)
+. Logistic Regression
+
+. Kneigbors Classifier (KNN)
 
 . Naive Bayes
 
-. Random Forest
+. Random Forest Classifier
 
-. Decision Trees
+. Decision Trees Classifier
 
-. Logistic Regression
-
-. Support vector Machines
+. Support Vector Classifier
 
 ![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/nc1.png)
 
@@ -80,11 +87,9 @@ In supervised machine learning in which models are trained using labeled data un
 
 . K-means clustering
 
-. KNN (k-nearest neighbors)
+. Agglomerative Clustering
 
-. Neural Networks
-
-. Principle Component Analysis 
+. DBSCAN
 
 ![](https://github.com/ashish3107k/Machine-learning-ML-/blob/main/Images/clu%20ex%201.png)
 
@@ -93,7 +98,3 @@ In supervised machine learning in which models are trained using labeled data un
  Reinforcement learning algorithms receive a set of instructions and guidelines and then make their own decisions about how to handle a task through a process of trial and error. Decisions are either rewarded or punished as a means of guiding the AI to the optimal solution to the problem.
 
 
-
-
-
- 
