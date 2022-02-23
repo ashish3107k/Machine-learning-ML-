@@ -98,3 +98,5 @@ In supervised machine learning in which models are trained using labeled data un
  Reinforcement learning algorithms receive a set of instructions and guidelines and then make their own decisions about how to handle a task through a process of trial and error. Decisions are either rewarded or punished as a means of guiding the AI to the optimal solution to the problem.
 
 
+
+
